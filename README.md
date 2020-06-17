@@ -1,4 +1,6 @@
 
+[![Build Status](https://tejtestudio.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/tejasgr93.mslearn-tailspin-spacegame-web?branchName=master)](https://tejtestudio.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
